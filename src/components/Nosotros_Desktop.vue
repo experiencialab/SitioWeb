@@ -185,6 +185,9 @@
             <p class="ma-0 mt-3 pa-0" style="font-size:10px">
               <span v-html="$store.state.equipo[member.index].bio[3]"></span>
             </p>
+            <p class="ma-0 mt-3 pa-0" style="font-size:10px">
+              <span v-html="$store.state.equipo[member.index].bio[4]"></span>
+            </p>
           </v-row>
           <v-row
             class="ma-0 mb-5 ml-11 pa-0"

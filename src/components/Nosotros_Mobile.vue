@@ -142,6 +142,9 @@
                   <p style="font-size:10px;width:100%">
                     <span v-html="$store.state.equipo[member.index].bio[3]"></span>
                   </p>
+                  <p style="font-size:10px;width:100%">
+                    <span v-html="$store.state.equipo[member.index].bio[4]"></span>
+                  </p>
                 </v-row>
                 <v-row
                   class="ma-0 ml-11 pa-0"

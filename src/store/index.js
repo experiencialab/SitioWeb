@@ -76,11 +76,12 @@ export default new Vuex.Store({
       {
         index: 0,
         nombre: 'Vivi Ponce',
-        cargo: 'CEO, CTO & Founder',
-        bio: ['Consultora experta en la concepción de la próxima generación de features en la experiencia digital de usuarios para ecosistemas y productos digitales basados en tecnología emergente. Agilista articuladora de procesos de co-creación e intervenciones de shock en organizaciones.',
-        'Gluten free, vegetariana, bike lover, inmigrante italiana en Chile, hacer que las cosas pasen y honestidad brutal son mis superpoderes.',
+        cargo: 'CEO & CTO, founder',
+        bio: ['Experta en:',
+        'Conducción de procesos de co-creación organizacionales.<br>Diseño centrado en usuarios.<br>Dirección y orquestación de aceleración de transformación digital.<br>Estrategias de productos y plataformas digitales desde la concepción de la idea, descubrimiento de oportunidades hasta la dirección del desarrollo ágil y lanzamiento.<br>Diseño de futuros organizacionales.',
+        'Gluten Free, vegetariana, bike lover, inmigrante italiana en Chile. Hacer que las cosas pasen es mi súper poder.',
         '',
-        'Ingeniero Civil Industrial<br>Marketing in a Digital Environment<br>Agile Coach<br>Scrum Master certificated<br>Product Owner certificated<br>Devops Certificated<br>Yoga teacher'
+        'Ingeniero Civil Industrial<br>Transformación digital Negocios a Gran escala, Executive Degree<br>Marketing en ambientes digitales, Master Degree<br>Agilista Apasionada: Scrum Master y Product Owner Certificated'
         ],
         foto: 'fotos/vivi_ponce.jpg',
         nick: 'Vivi',
@@ -92,16 +93,16 @@ export default new Vuex.Store({
       {
         index: 1,
         nombre: 'Ana de Lara',
-        cargo: 'Head UX/UI',
+        cargo: 'CPO & Co-founder',
         bio: [
-          'Consultora experta en la concepción e incubación de experiencias digitales atesorables a través de la identificación de las necesidades actuales y futuras de los usuario & clientes  y el uso de metodologías de diseño participativo. Desarrollo acelerado de productos con y para el usuario.',
-          'Camaleónica, resiliente, ciudadana del mundo, dance lover, obsesionada con todas las ramas del diseño.',
-          'Superpoder: “tangibilizar las experiencias, hacerlas realidad”.',
-          'Diseñadora<br>Abogado<br>Máster en Diseño Avanzado<br>UX/UI Senior<br>Scrum Master / Product Owner Certificated'
+          'Experta en:<br>Diseño Participativo<br>Descubrimiento de oportunidades digitales, necesidades y funcionalidades para y con los usuarios.<br>Diseño de productos & plataformas digitales.<br>Desarrollo ágil de productos y plataformas digitales.<br>Design thinking y metodologías ágiles.<br>UX/UI',
+          'Cameleónica, resiliente, ciudadana del mundo, dance lover, obsesionada con todas las ramas del diseño.',
+          'Súper poder: “tangibilizar experiencias, hacerlas realidad”.',
+          'Diseñadora<br>Abogado<br>Máster en Diseño Avanzado<br>Agilista: Product Owner Certificated'
         ],
         foto: 'fotos/ana_de_lara.jpg',
         nick: 'Ana',
-        twitter: '',
+        twitter: '@anadelara',
         twitterlink: '',
         instagram: 'https://www.instagram.com/anadelara/?hl=en',
         linkedin: 'https://www.linkedin.com/in/anavdelara/'
