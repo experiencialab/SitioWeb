@@ -97,7 +97,7 @@ export default new Vuex.Store({
         bio: [
           'Experta en:<br>Diseño Participativo<br>Descubrimiento de oportunidades digitales, necesidades y funcionalidades para y con los usuarios.<br>Diseño de productos & plataformas digitales.<br>Desarrollo ágil de productos y plataformas digitales.<br>Design thinking y metodologías ágiles.<br>UX/UI',
           'Cameleónica, resiliente, ciudadana del mundo, dance lover, obsesionada con todas las ramas del diseño.',
-          'Súper poder: “tangibilizar experiencias, hacerlas realidad”.',
+          'Súper poder: “Tangibilizar experiencias, hacerlas realidad”.',
           'Diseñadora<br>Abogado<br>Máster en Diseño Avanzado<br>Agilista: Product Owner Certificated'
         ],
         foto: 'fotos/ana_de_lara.jpg',
